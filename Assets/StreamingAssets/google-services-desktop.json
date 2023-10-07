@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606109116511",
+    "project_id": "credible-rex-306815",
+    "storage_bucket": "credible-rex-306815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606109116511:android:061585b0a4dd16956a93ea",
+        "android_client_info": {
+          "package_name": "com.TwoRandomWords.MarbleBlocksSandbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-DbSz4hm-urZ468HPKA2m5aEWyDeouaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
